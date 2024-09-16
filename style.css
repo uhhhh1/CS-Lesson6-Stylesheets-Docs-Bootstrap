@@ -53,4 +53,6 @@ body {
     border: 5px solid #4caf50;
     border-radius: 10px;
   }
-  
+  img {
+    width: 40%;
+  }
